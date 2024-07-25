@@ -6,6 +6,8 @@ I made a quite rudimentary python script to convert google keep backups to Quill
 
 For me it works for importing note titles, content, and pinned or not. I didn't make further checks for now but may improve it later.
 
+Licensed under GPL3
+
 Steps to use :
 
 -     export your google keep notes with takeout
